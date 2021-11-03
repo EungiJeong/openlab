@@ -1,8 +1,8 @@
 #ifndef FUNCS_H
 #define FUNCS_H
 
-void foo();
-void koo();
+void foo(void);
+void koo(int);
 
 #endif
 
